@@ -1,5 +1,5 @@
 //
-//  FSPagerViewCell.swift
+//  UICollectionViewCell.swift
 //  FSPagerView
 //
 //  Created by Wenchao Ding on 17/12/2016.
